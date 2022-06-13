@@ -1,0 +1,19 @@
+{
+  "name": "payment-gateway-integration-gh-pages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Waali123/Payment-Gateway-Integration-TSF.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Waali123/Payment-Gateway-Integration-TSF/issues"
+  },
+  "homepage": "https://github.com/Waali123/Payment-Gateway-Integration-TSF#readme"
+}
